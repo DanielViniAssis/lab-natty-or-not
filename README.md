@@ -20,23 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+PodCast Super Natty
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma imagem que simula um podcast real, mostrando todo o poder de uma ia generativa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot Image
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi algumas ideias para o chat e ele foi listando então juntei as ideias que eu já possuia e utilizei da lista que o chat me mandou e assim criei esta imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/user-attachments/assets/fe2945a9-93e9-4b60-8829-314476612d7f)
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
